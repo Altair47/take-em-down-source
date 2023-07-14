@@ -1,0 +1,441 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8825806365590966936
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abdf82dce54b9634196816626582aa87, type: 3}
+  m_Name: ChromaticVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Chroma:
+    m_OverrideState: 1
+    m_Value: 18.1
+--- !u!114 &-8227319817507997372
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9552dc531ee036d499efc8422245ab19, type: 3}
+  m_Name: GlitchVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Noise:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: fe501083ed04d7148a38ba0776f57bbb, type: 3}
+  Size:
+    m_OverrideState: 1
+    m_Value: 45.8
+  BlockDensity:
+    m_OverrideState: 1
+    m_Value: 0.24
+  LineDensity:
+    m_OverrideState: 1
+    m_Value: 0.239
+  Speed:
+    m_OverrideState: 1
+    m_Value: 10
+--- !u!114 &-5863332418894850266
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e164acabf378b54fb9216ba720815f9, type: 3}
+  m_Name: DrunkVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Speed:
+    m_OverrideState: 1
+    m_Value: 1
+--- !u!114 &-4979003479267808439
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745dbe63215d76041a5b631c8de9de3d, type: 3}
+  m_Name: CartoonVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Lines:
+    m_OverrideState: 1
+    m_Value: 2.9
+  ColorLight:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 1, b: 0.15510082, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  ColorDark:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+--- !u!114 &-2012447152725075337
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81bb4d263f55354fb1bfb579f9dddf7, type: 3}
+  m_Name: SimpleEdgeVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Multiplier:
+    m_OverrideState: 1
+    m_Value: 1
+--- !u!114 &-1532201368649650638
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9cfa44da4f34c64bb4e878d6833959b, type: 3}
+  m_Name: VCRVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Noise:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: fe501083ed04d7148a38ba0776f57bbb, type: 3}
+  Stripes:
+    m_OverrideState: 1
+    m_Value: 4
+  Noisy:
+    m_OverrideState: 1
+    m_Value: 0.22
+  VerticalShift:
+    m_OverrideState: 1
+    m_Value: 0.25
+  HorizontalShift:
+    m_OverrideState: 1
+    m_Value: 1.8
+--- !u!114 &-32820517437979890
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+  m_Name: Bloom
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  threshold:
+    m_OverrideState: 0
+    m_Value: 0.9
+    min: 0
+  intensity:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+  scatter:
+    m_OverrideState: 0
+    m_Value: 0.7
+    min: 0
+    max: 1
+  clamp:
+    m_OverrideState: 0
+    m_Value: 65472
+    min: 0
+  tint:
+    m_OverrideState: 0
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    hdr: 0
+    showAlpha: 0
+    showEyeDropper: 1
+  highQualityFiltering:
+    m_OverrideState: 0
+    m_Value: 0
+  skipIterations:
+    m_OverrideState: 0
+    m_Value: 1
+    min: 0
+    max: 16
+  dirtTexture:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  dirtIntensity:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: GlobalVolumeProfile 1
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 1881579288749618558}
+  - {fileID: -32820517437979890}
+  - {fileID: -4979003479267808439}
+  - {fileID: 2697060259281085972}
+  - {fileID: -8825806365590966936}
+  - {fileID: -5863332418894850266}
+  - {fileID: 283841692298429965}
+  - {fileID: 323267036207820245}
+  - {fileID: -8227319817507997372}
+  - {fileID: 7036019882005234513}
+  - {fileID: -2012447152725075337}
+  - {fileID: 1054338064238387107}
+  - {fileID: -1532201368649650638}
+--- !u!114 &283841692298429965
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77a7ddf9f9a3e454faa7ae68ee5ebbb3, type: 3}
+  m_Name: EdgeGlowVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Scale:
+    m_OverrideState: 1
+    m_Value: 0.54
+  EdgeColor:
+    m_OverrideState: 1
+    m_Value: {r: 24.251463, g: 24.251463, b: 24.251463, a: 1}
+    hdr: 1
+    showAlpha: 1
+    showEyeDropper: 1
+--- !u!114 &323267036207820245
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605214c209438034a935cdb9812bae62, type: 3}
+  m_Name: FastBlurVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Scale:
+    m_OverrideState: 1
+    m_Value: 5
+--- !u!114 &1054338064238387107
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ce6ba353c5f22478a1234908cde861, type: 3}
+  m_Name: SketchVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Noise:
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: 95d9508f0d0215f44a553ab9e42f8c2b, type: 3}
+  Sensitivity:
+    m_OverrideState: 1
+    m_Value: 1
+  Color:
+    m_OverrideState: 1
+    m_Value: 0.523
+--- !u!114 &1881579288749618558
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+  m_Name: Tonemapping
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  mode:
+    m_OverrideState: 1
+    m_Value: 1
+--- !u!114 &2697060259281085972
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200a29924df02d048adc76ad97d6f738, type: 3}
+  m_Name: CRTVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Scan:
+    m_OverrideState: 1
+    m_Value: 0.14
+  Brightness:
+    m_OverrideState: 1
+    m_Value: 2.17
+  Offset:
+    m_OverrideState: 1
+    m_Value: 1.57
+--- !u!114 &7036019882005234513
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 877fd545cff4205419055662e62e7c39, type: 3}
+  m_Name: MonochromeVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Scale:
+    m_OverrideState: 1
+    m_Value: 0
+  ColorLight:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  ColorDark:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+--- !u!114 &9089219839632824142
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: EdgeGlowVolume
+  m_EditorClassIdentifier: Assembly-CSharp:UnityEngine.Rendering.Universal:EdgeGlowVolume
+  active: 1
+  Active:
+    m_OverrideState: 1
+    m_Value: 0
+  When:
+    m_OverrideState: 1
+    m_Value: 500
+  Scale:
+    m_OverrideState: 1
+    m_Value: 1
+  EdgeColor:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
