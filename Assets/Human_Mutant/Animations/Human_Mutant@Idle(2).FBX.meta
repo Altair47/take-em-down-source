@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 1f3a281dcf6722e46b82c02f9e3b75f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_mesh
+    100002: CATRigHub001
+    100004: CATRigHub001Bone001
+    100006: CATRigHub001Bone001Bone001
+    100008: CATRigHub001Bone001Bone001 1
+    100010: CATRigHub001Bone001Bone001Bone001
+    100012: CATRigHub001Bone001Bone001Bone001 1
+    100014: CATRigHub001Bone001Bone001Bone001Bone001
+    100016: CATRigHub001Bone001Bone001Bone001Bone001 1
+    100018: CATRigHub001Bone001Bone001Bone001Bone001Bone001
+    100020: CATRigHub001Bone001Bone001Bone001Bone001Bone001 1
+    100022: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+    100024: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100026: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100028: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100030: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100032: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100034: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100036: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100038: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100040: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100042: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100044: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100046: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100048: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100050: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100052: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100054: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100056: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100058: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100060: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100062: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100064: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100066: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100068: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100070: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100072: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100074: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100076: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100078: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100080: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100082: CATRigHub001Bone002
+    100084: CATRigHub001Bone003
+    100086: CATRigHub002
+    100088: CATRigHub002Bone001
+    100090: CATRigHub002Bone001Bone001
+    100092: CATRigHub002Bone001Bone001 1
+    100094: CATRigHub002Bone001Bone001Bone001
+    100096: CATRigHub002Bone001Bone001Bone001 1
+    100098: CATRigHub002Bone001Bone001Bone001Bone001
+    100100: CATRigHub002Bone001Bone001Bone001Bone001 1
+    100102: CATRigHub002Bone001Bone001Bone001Bone001Bone001
+    100104: CATRigHub002Bone001Bone001Bone001Bone001Bone001 1
+    100106: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    100108: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100110: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100112: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100114: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100116: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100118: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100120: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100122: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100124: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100126: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100128: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100130: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100132: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100134: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100136: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100138: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100140: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100142: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100144: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100146: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100148: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100150: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100152: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100154: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100156: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100158: CATRigHub002Bone002
+    100160: CATRigHub003
+    100162: CATRigHub003Bone001
+    100164: CATRigHub003Bone001Bone001
+    100166: CATRigHub003Bone001Bone001 1
+    100168: CATRigHub003Bone001Bone001Bone001
+    100170: CATRigHub003Bone001Bone001Bone001 1
+    100172: CATRigHub003Bone001Bone001Bone001Bone001
+    100174: CATRigHub003Bone001Bone001Bone001Bone001 1
+    100176: CATRigHub003Bone001Bone001Bone001Bone001Bone001
+    100178: CATRigHub003Bone001Bone001Bone001Bone001Bone001 1
+    100180: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001
+    100182: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100184: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100186: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100188: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100190: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100192: CATRigHub003Bone001Bone002
+    100194: CATRigHub003Bone001Bone002 1
+    100196: CATRigHub003Bone001Bone002Bone001
+    100198: CATRigHub003Bone001Bone002Bone001 1
+    100200: CATRigHub003Bone001Bone002Bone001Bone001
+    100202: CATRigHub003Bone001Bone002Bone001Bone001 1
+    100204: CATRigHub003Bone001Bone002Bone001Bone001Bone001
+    100206: CATRigHub003Bone001Bone002Bone001Bone001Bone001 1
+    100208: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001
+    100210: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001 1
+    100212: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001
+    100214: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001 1
+    100216: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001
+    100218: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100220: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100222: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100224: CATRigHub003Bone002
+    100226: CATRigSpine1
+    100228: CATRigSpine1 1
+    100230: CATRigSpine2
+    100232: CATRigSpine2 1
+    100234: CATRigSpine3
+    100236: CATRigSpine4
+    100238: CATRigSpine5
+    100240: CATRigSpine6
+    100242: CATRigSpine7
+    100244: CATRigSpine8
+    100246: Character
+    100248: Character001
+    100250: Character002
+    100252: Character003
+    100254: Character004
+    100256: //RootNode
+    100258: Left_teeth_mesh
+    100260: Right_teeth_mesh
+    400000: Body_mesh
+    400002: CATRigHub001
+    400004: CATRigHub001Bone001
+    400006: CATRigHub001Bone001Bone001
+    400008: CATRigHub001Bone001Bone001 1
+    400010: CATRigHub001Bone001Bone001Bone001
+    400012: CATRigHub001Bone001Bone001Bone001 1
+    400014: CATRigHub001Bone001Bone001Bone001Bone001
+    400016: CATRigHub001Bone001Bone001Bone001Bone001 1
+    400018: CATRigHub001Bone001Bone001Bone001Bone001Bone001
+    400020: CATRigHub001Bone001Bone001Bone001Bone001Bone001 1
+    400022: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+    400024: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400026: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400028: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400030: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400032: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400034: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400036: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400038: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400040: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400042: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400044: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400046: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400048: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400050: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400052: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400054: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400056: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400058: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400060: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400062: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400064: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400066: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400068: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400070: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400072: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400074: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400076: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400078: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400080: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400082: CATRigHub001Bone002
+    400084: CATRigHub001Bone003
+    400086: CATRigHub002
+    400088: CATRigHub002Bone001
+    400090: CATRigHub002Bone001Bone001
+    400092: CATRigHub002Bone001Bone001 1
+    400094: CATRigHub002Bone001Bone001Bone001
+    400096: CATRigHub002Bone001Bone001Bone001 1
+    400098: CATRigHub002Bone001Bone001Bone001Bone001
+    400100: CATRigHub002Bone001Bone001Bone001Bone001 1
+    400102: CATRigHub002Bone001Bone001Bone001Bone001Bone001
+    400104: CATRigHub002Bone001Bone001Bone001Bone001Bone001 1
+    400106: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    400108: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400110: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400112: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400114: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400116: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400118: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400120: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400122: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400124: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400126: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400128: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400130: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400132: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400134: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400136: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400138: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400140: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400142: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400144: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400146: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400148: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400150: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400152: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400154: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400156: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400158: CATRigHub002Bone002
+    400160: CATRigHub003
+    400162: CATRigHub003Bone001
+    400164: CATRigHub003Bone001Bone001
+    400166: CATRigHub003Bone001Bone001 1
+    400168: CATRigHub003Bone001Bone001Bone001
+    400170: CATRigHub003Bone001Bone001Bone001 1
+    400172: CATRigHub003Bone001Bone001Bone001Bone001
+    400174: CATRigHub003Bone001Bone001Bone001Bone001 1
+    400176: CATRigHub003Bone001Bone001Bone001Bone001Bone001
+    400178: CATRigHub003Bone001Bone001Bone001Bone001Bone001 1
+    400180: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001
+    400182: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400184: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400186: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400188: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400190: CATRigHub003Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400192: CATRigHub003Bone001Bone002
+    400194: CATRigHub003Bone001Bone002 1
+    400196: CATRigHub003Bone001Bone002Bone001
+    400198: CATRigHub003Bone001Bone002Bone001 1
+    400200: CATRigHub003Bone001Bone002Bone001Bone001
+    400202: CATRigHub003Bone001Bone002Bone001Bone001 1
+    400204: CATRigHub003Bone001Bone002Bone001Bone001Bone001
+    400206: CATRigHub003Bone001Bone002Bone001Bone001Bone001 1
+    400208: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001
+    400210: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001 1
+    400212: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001
+    400214: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001 1
+    400216: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001
+    400218: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400220: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400222: CATRigHub003Bone001Bone002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400224: CATRigHub003Bone002
+    400226: CATRigSpine1
+    400228: CATRigSpine1 1
+    400230: CATRigSpine2
+    400232: CATRigSpine2 1
+    400234: CATRigSpine3
+    400236: CATRigSpine4
+    400238: CATRigSpine5
+    400240: CATRigSpine6
+    400242: CATRigSpine7
+    400244: CATRigSpine8
+    400246: Character
+    400248: Character001
+    400250: Character002
+    400252: Character003
+    400254: Character004
+    400256: //RootNode
+    400258: Left_teeth_mesh
+    400260: Right_teeth_mesh
+    2100000: Character
+    2300000: Left_teeth_mesh
+    2300002: Right_teeth_mesh
+    3300000: Left_teeth_mesh
+    3300002: Right_teeth_mesh
+    4300000: Left_teeth_mesh
+    4300002: Right_teeth_mesh
+    4300004: Body_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Character
+    second: {fileID: 2100000, guid: c5f7ddf212650704f935b4bdcfa6a2da, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
